@@ -1,2 +1,2 @@
 # Practice repository for DWA
-Hello world, this is a test.
+<https://dwa15.com>
